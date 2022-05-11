@@ -27,7 +27,7 @@
 * вывести сформированный массив
 
 # Задача решение
-![Решение задачи ](C:\учёба\С#\ДЗ\контр\image\start.png)
+![Решение задачи ](https://github.com/alexe127/instruction/blob/main/image/start.png)
 
 ![Решение задачи ](code.png)
 
