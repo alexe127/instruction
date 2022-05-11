@@ -31,7 +31,6 @@
 
 ![Решение задачи ](code.png)
 
-
 void printArray(string[] array) 
 
 {
